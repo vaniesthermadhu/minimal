@@ -1,18 +1,12 @@
----
-layout: default
----
+#AI Protfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+##Machine Learning
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Project 1
+### Project 1
 
 Fraud Detection
+
+Fraud detection is defined as a process that detects scams and prevents fraudsters from obtaining money or property through false means.
 
 ## Header 2
 
